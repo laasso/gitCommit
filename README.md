@@ -1,5 +1,5 @@
 
- Git Commit Script
+# Git Commit Script
 
 [![GitHub issues](https://img.shields.io/github/issues/laasso/gitCommit?style=flat-square)](https://github.com/laasso/gitCommit/issues)
 [![GitHub stars](https://img.shields.io/github/stars/laasso/gitCommit?style=flat-square)](https://github.com/laasso/gitCommit/stargazers)

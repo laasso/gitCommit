@@ -1,8 +1,6 @@
 
  Git Commit Script
 
-[![GitHub release](https://img.shields.io/github/v/release/laasso/gitCommit?style=flat-square)](https://github.com/laasso/gitCommit/releases)
-[![GitHub license](https://img.shields.io/github/license/laasso/gitCommit?style=flat-square)](https://github.com/laasso/gitCommit/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/laasso/gitCommit?style=flat-square)](https://github.com/laasso/gitCommit/issues)
 [![GitHub stars](https://img.shields.io/github/stars/laasso/gitCommit?style=flat-square)](https://github.com/laasso/gitCommit/stargazers)
 
